@@ -7,6 +7,12 @@ margin-right: 60px;
 margin-left: 60px;
 }
 
+body{
+padding-top: 50px;
+padding-right: 50px;
+padding-bottom: 50px;
+padding-left: 50px;
+}
 h2{
     color: rgb(117, 9, 167);
 }
