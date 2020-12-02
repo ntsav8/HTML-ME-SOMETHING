@@ -14,7 +14,7 @@ padding-bottom: 50px;
 padding-left: 50px;
 }
 h2{
-    color: rgb(117, 9, 167);
+color: rgb(117, 9, 167);
 }
 
 #heading{
@@ -27,10 +27,13 @@ body{
 }
 .image-container{
     width: 250px;
-}
-.bold-paragraphs{
 
 }
+img {
+   width: 100%;
+   height: auto; 
+}
+
 .purple-paragraphs{
     color: rebeccapurple;
 }
